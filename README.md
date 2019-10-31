@@ -1,5 +1,5 @@
 <h1 align="center">
-  <br>⭐ BookPivot ⭐<br> 
+  <br>⭐ Solar System ⭐<br> 
 </h1>
 <h4 align="center">
   <sub>Built with ❤︎ by
